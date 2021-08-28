@@ -11,4 +11,4 @@ References
 [3]Al-Mohy, A.H., Higham, N.J.: Computing the action of the matrix exponential with an application to exponential integrators. SIAM Journal on Scientific Computing 33(2), 488–511 (2011). DOI 10.1137/10078886			
 [4] Borg, F.: What is osmosis? Explanation and understanding of a physical phenomenon. Technical report, Chydenius Institute, Jyva ̈skyla ̈ University, Karleby,Finland (2003) arXiv:physics/0305011v1.				
 [5] Oliver Vogel, Kai Hagenburg, Joachim Weickert, and Simon Setzer “A fully Discrete Theory For Linear Osmosis Filtering” Lecture Notes in Computer Science, Vol. 7893, pp. 368-379, Springer, Berlin (2013). 
-![image](https://user-images.githubusercontent.com/29679936/131215604-e71284e1-d96c-4834-ba5b-d9a1846576f1.png)
+
